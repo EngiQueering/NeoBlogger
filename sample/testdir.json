@@ -1,0 +1,6 @@
+{"posts":[
+  {"title": "testTitle0", "created": "2022-01-20", "updated": "2022-01-21", "author": "sampleAuthor0", "tags": "tag0-0,tag0-1,tag0-2","path": "testFile0.json"},
+  {"title": "testTitle1", "created": "2022-01-21", "updated": "2022-01-22", "author": "sampleAuthor1", "tags": "tag1-0,tag1-1,tag1-2","path": "testFile1.json"},
+  {"title": "testTitle2", "created": "2022-01-22", "updated": "2022-01-23", "author": "sampleAuthor2", "tags": "tag2-0,tag2-1,tag2-2","path": "testFile2.json"},
+  {"title": "testTitle3", "created": "2022-01-23", "updated": "2022-01-24", "author": "sampleAuthor3", "tags": "tag3-0,tag3-1,tag3-2","path": "testFile3.json"}
+]}
